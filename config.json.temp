@@ -1,0 +1,176 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": true,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "commandDisabled": [
+        "solo.js"
+    ],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "PHÁT•𝐁𝐎𝐓",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100075049159222",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36"
+    },
+    "version": "1.2.14",
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 120
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 120
+    },
+    "log": {
+        "enable": false
+    },
+    "sim2": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 20000
+    },
+    "diemdanh": {
+        "cooldownTime": 3000000
+    },
+    "hitbutt": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "hép": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "img": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "linkword": {
+        "APIKEY": "Meew_XDa0Dhdp0c0zPqGlHlOJiFGZXrlXAi"
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 30
+    },
+    "rankup": {
+        "autoUnsend": "true",
+        "unsendMessageAfter": 1900
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "61e802b1478f8e85198f28ed6ac2de6efe5d0a41"
+    },
+    "shortlink": {
+        "bitlyAPI": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "sim": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyDH-HVpxrvn5tldQSqwYZdbLoIuDzM9jFI",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "slap": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "sortword": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": "",
+        "delThread": ""
+    },
+    "teach": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "tiktok": {
+        "APIKEY": "Meew_XDa0Dhdp0c0zPqGlHlOJiFGZXrlZAi"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyA7iJDD8jd7ItteGJddOBmolFrA-ZlYmtY"
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "daoda": {
+        "cooldownTime": 1000000
+    },
+    "chatgo": {
+        "cooldownTime": 1000000
+    },
+    "batca": {
+        "cooldownTime": 1000000
+    },
+    "chaybot": {
+        "cooldownTime": 1000000
+    },
+    "nasa": {
+        "cooldownTime": 1000000
+    }
+}
